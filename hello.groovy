@@ -1,4 +1,4 @@
-print "Hello World!\n"
+print "Hello asdfabsjvbasdfi!\n"
 
 def x = 104
 println x.getClass()
